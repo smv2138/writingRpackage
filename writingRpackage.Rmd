@@ -1,0 +1,19 @@
+---
+title: "Writing R package"
+author: Sushupta Vijapur
+output: github_document
+---
+
+```{r}
+tiger_king = function() {
+  emo::ji("tiger")
+  emo::ji("king")
+}
+```
+
+Create package skeleton
+
+```{r}
+
+```
+
